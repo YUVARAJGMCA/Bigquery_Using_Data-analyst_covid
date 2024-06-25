@@ -1,0 +1,40 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "Sno",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Date",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Time",
+      "type": "TIME"
+    },
+    {
+      "name": "StateUnionTerritory",
+      "type": "STRING"
+    },
+	{
+      "name": "ConfirmedIndianNational",
+      "type": "INTEGER"
+    },
+    {
+      "name": "ConfirmedForeignNational",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Cured",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Deaths",
+      "type": "INTEGER"
+    },
+    {
+      "name": "Confirmed",
+      "type": "INTEGER"
+    }
+  ]
+}
